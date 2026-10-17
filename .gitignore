@@ -30,4 +30,21 @@ go.work.sum
 
 # Editor/IDE
 # .idea/
-# .vscode/
+.vscode/
+
+# test
+cmd/hello/
+
+# compiled binaries
+/bin/
+/hello
+/todo
+
+# save and temp files created by the app
+*.bak
+*.tmp
+
+# Real and personal task lists
+/data/
+
+
